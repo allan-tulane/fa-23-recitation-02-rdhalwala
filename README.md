@@ -67,3 +67,4 @@ For f(n) = n, the asymptotic behavior is O(logn)
   In the example (8,2,2) the span ends up being 15 which is the same logn
 
 **TODO: your answer goes here**
+ 
